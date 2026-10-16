@@ -30,6 +30,30 @@ As the environment becomes darker, more LEDs automatically turn on. As the envir
 | Breadboard | 1 |
 | Jumper Wires | As needed |
 
+## Hardware Datasheets
+
+The SmartLight project uses the Texas Instruments
+SN74HC595N 8-bit shift register.
+
+### SN74HC595N Shift Register
+
+- Manufacturer: Texas Instruments
+- Part Number: SN74HC595N
+- Type: 8-bit Serial-In, Parallel-Out Shift Register
+- Operating Voltage: 2V–6V
+- Package: 16-pin DIP
+
+**Official Datasheet:**
+
+[SN74HC595N Datasheet (Texas Instruments)](https://www.ti.com/lit/ds/symlink/sn74hc595.pdf)
+
+The datasheet provides:
+- Pin configurations
+- Electrical characteristics
+- Timing diagrams
+- Functional descriptions
+- Recommended operating conditions
+
 ## How It Works
 
 The photocell measures ambient light intensity through Arduino analog pin A0.
