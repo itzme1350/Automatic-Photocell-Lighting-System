@@ -86,5 +86,5 @@ The Arduino maps these readings to 1–8 LEDs.
 
 Hpone Myat
 
-Computer Engineering
+Computer Engineering,
 University of Maryland, Baltimore County (UMBC)
